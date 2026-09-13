@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="Presiona Start" name="start" style="position: absolute; top: 315px; left: 460px; -unity-font-style: bold-and-italic; color: rgb(249, 247, 247); background-color: rgba(10, 10, 10, 0.24);"/>
+    <ui:Label text="Space Invaders X" name="titulo" style="position: absolute; top: 50px; left: 142px; -unity-font-style: bold-and-italic; color: rgb(253, 249, 10); font-size: 40px;"/>
+    <ui:Label text="Mover: ← →&#10;Disparar: Space" name="controles" style="position: absolute; width: 184px; top: 297px; left: 32px; -unity-font-style: bold; color: rgb(248, 248, 248); font-size: 20px; -unity-text-align: upper-left; height: 59px;"/>
+</ui:UXML>
