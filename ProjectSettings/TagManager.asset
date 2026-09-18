@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - bloque
+  - enemigo
   layers:
   - Default
   - TransparentFX

@@ -5,8 +5,11 @@ public class playerMove : MonoBehaviour
 {
     //Para mover la nave
     public float velocidad = 5f;
+    public GameObject balaPrefab;
+    private Vector2 posicionBala; 
     private Rigidbody2D rb;
     private float movimiento;
+
 
     void Awake(){
         //Para mover la nave
@@ -19,8 +22,8 @@ public class playerMove : MonoBehaviour
     }
     
     void Update(){
-        //Para mover la nave
         moverNave();
+        disparar();
     }
 
     void FixedUpdate(){
@@ -37,5 +40,13 @@ public class playerMove : MonoBehaviour
 
         if (Keyboard.current.rightArrowKey.isPressed && transform.position.x < 8.2f)
             movimiento = 1f;
+    }
+
+    //Disparar
+    void disparar(){
+        posicionBala = new Vector2(transform.position.x, transform.position.y + 1f);
+        if (Keyboard.current.upArrowKey.wasPressedThisFrame){
+            Instantiate(balaPrefab, posicionBala, Quaternion.identity);
+        }
     }
 }
