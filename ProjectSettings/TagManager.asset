@@ -6,6 +6,10 @@ TagManager:
   tags:
   - bloque
   - enemigo
+  - bala
+  - balaEnemigo
+  - player
+  - lineaInferior
   layers:
   - Default
   - TransparentFX

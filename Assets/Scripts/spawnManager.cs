@@ -9,11 +9,12 @@ public class spawnManager : MonoBehaviour
     public GameObject enemigo3;
     public GameObject bloque;
     public GameObject player;
-
-    private float[] enemigo_PosX = {-7f, -5f, -3f, -1f, 1f, 3f, 5f};
-    private float[] enemigo_PosY =  {4f, 2.6f, 1f};
+    
+    private float[] enemigo_PosX = {-2.5f, -0.5f, 1.5f, 3.5f, 5.5f};
+    private float[] enemigo_PosY =  {4.1f, 2.7f, 1.1f};
     private float columna = -2f;
-    private float fila = -7f;
+    private float fila = -3.5f;
+    private float avanceFila = 0.61f;
     
     void Start()
     {
@@ -44,24 +45,19 @@ public class spawnManager : MonoBehaviour
         for (int b = 0; b < 3; b++){
             for(int c = 0; c < 5; c++){
                 Instantiate(bloque, new Vector2(fila, columna), Quaternion.identity);  
-                fila += 0.53f;
+                fila += avanceFila;
             }
-            fila = -1.06f;
-            for(int d = 0; d < 5; d++){
-                Instantiate(bloque, new Vector2(fila, columna), Quaternion.identity);  
-                fila += 0.53f;
-            }
-            fila = 4.88f;
+            fila = 4f;
             for(int e = 0; e < 5; e++){
                 Instantiate(bloque, new Vector2(fila, columna), Quaternion.identity);  
-                fila += 0.53f;
+                fila += avanceFila;
             }            
-            fila = -7f;            
-            columna -= 0.53f;    
+            fila = -3.5f;            
+            columna -= avanceFila;    
         }  
     }
 
     void SpawnPlayer(){
-        Instantiate(player, new Vector2(0, -4.2f), Quaternion.identity); 
-    }
+        Instantiate(player, new Vector2(1.5f, -4.2f), Quaternion.identity); 
+    }    
 }

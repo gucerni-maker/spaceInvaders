@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 5666044919053085104}
   - component: {fileID: 9215710892847568615}
   - component: {fileID: 2931836018771122335}
+  - component: {fileID: -5486737444606863239}
+  - component: {fileID: 2969404226268223142}
   m_Layer: 0
   m_Name: enemigo1
   m_TagString: enemigo
@@ -124,14 +126,14 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034762499363907147}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -141,8 +143,8 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 7
 --- !u!61 &2931836018771122335
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -189,3 +191,30 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.3478446, y: 2.1343603}
   m_EdgeRadius: 0
+--- !u!114 &-5486737444606863239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034762499363907147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2d0acef7b860952ad5ed207ce7cd61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::disparoEnemigo1
+  balaPrefab: {fileID: 2017457393799633662, guid: 8179dd0d227471b2a8caaa963756b3cc, type: 3}
+--- !u!114 &2969404226268223142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034762499363907147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53640ca1da900eae3b156d64304ba1d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::enemigoDestruyeCosas
+  explosionBloque: {fileID: 6237246336885929928, guid: 04caa127584d64ae89021b5f22653bb1, type: 3}
+  explosionPlayer: {fileID: 3737644356471690960, guid: 873413d116884ee51832eb69c25d15d5, type: 3}

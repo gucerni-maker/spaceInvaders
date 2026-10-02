@@ -32,10 +32,10 @@ public class playerMove : MonoBehaviour
         rb.MovePosition(nuevaPosicion);
     }
 
-    //Para mover la nave
+    //Para mover la nave y establecer limite de movimiento hacia la izquierda y derecha
     void moverNave(){
         movimiento = 0f;
-        if (Keyboard.current.leftArrowKey.isPressed && transform.position.x > -8.2f)
+        if (Keyboard.current.leftArrowKey.isPressed && transform.position.x > -5f)
             movimiento = -1f;
 
         if (Keyboard.current.rightArrowKey.isPressed && transform.position.x < 8.2f)

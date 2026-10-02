@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: a4a936bf29e125d478ab35148d1b753e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8726039356865901899
+    second: bloque explota_0
+  - first:
+      213: 5743414442334270412
+    second: bloque explota_1
+  - first:
+      213: -4838891829007272690
+    second: bloque explota_2
+  - first:
+      213: 5069085888903308205
+    second: bloque explota_3
+  - first:
+      213: -876254460305596298
+    second: bloque explota_4
+  - first:
+      213: 3040139359929860041
+    second: bloque explota_5
+  - first:
+      213: -8980992526092699087
+    second: bloque explota_6
+  - first:
+      213: 1363340478235598907
+    second: bloque explota_7
+  - first:
+      213: 2676932970098620664
+    second: bloque explota_8
+  - first:
+      213: -3851651770527676385
+    second: bloque explota_9
+  - first:
+      213: 1504810679883742608
+    second: bloque explota_10
+  - first:
+      213: -6812819119066237227
+    second: bloque explota_11
+  - first:
+      213: 8490283085721829024
+    second: bloque explota_12
+  - first:
+      213: -2853386357183745295
+    second: bloque explota_13
+  - first:
+      213: -6047608872386025030
+    second: bloque explota_14
+  - first:
+      213: 96603527922952581
+    second: bloque explota_15
+  - first:
+      213: -591543055562783498
+    second: bloque explota_16
+  - first:
+      213: -605282348196707670
+    second: bloque explota_17
+  - first:
+      213: 5405232107112609241
+    second: bloque explota_18
+  - first:
+      213: 8641130433215818354
+    second: bloque explota_19
+  - first:
+      213: 6544392100807015584
+    second: bloque explota_20
+  - first:
+      213: 3471333554744471587
+    second: bloque explota_21
+  - first:
+      213: 2861384775521844691
+    second: bloque explota_22
+  - first:
+      213: -5119473456729532211
+    second: bloque explota_23
+  - first:
+      213: -490049964224126308
+    second: bloque explota_24
+  - first:
+      213: -7859451030483900058
+    second: bloque explota_25
+  - first:
+      213: -1979473055246545209
+    second: bloque explota_26
+  - first:
+      213: -4279611921974914168
+    second: bloque explota_27
+  - first:
+      213: 4329860693326462150
+    second: bloque explota_28
+  - first:
+      213: -4984125493788036160
+    second: bloque explota_29
+  - first:
+      213: 1226011674813896396
+    second: bloque explota_30
+  - first:
+      213: 8849623446391234334
+    second: bloque explota_31
+  - first:
+      213: 4196126553702962658
+    second: bloque explota_32
+  - first:
+      213: 8766258034047405569
+    second: bloque explota_33
+  - first:
+      213: 6596610618902561366
+    second: bloque explota_34
+  - first:
+      213: -8539874057274827716
+    second: bloque explota_35
+  - first:
+      213: -1196901626409040070
+    second: bloque explota_36
+  - first:
+      213: 5520857058115631823
+    second: bloque explota_37
+  - first:
+      213: 2394852481129341011
+    second: bloque explota_38
+  - first:
+      213: -7896942128431779481
+    second: bloque explota_39
+  - first:
+      213: 1266460824739308583
+    second: bloque explota_40
+  - first:
+      213: 7662153207896033065
+    second: bloque explota_41
+  - first:
+      213: 2796339411780701537
+    second: bloque explota_42
+  - first:
+      213: 9168815889077104233
+    second: bloque explota_43
+  - first:
+      213: 2490425447319533251
+    second: bloque explota_44
+  - first:
+      213: -7876683978105559672
+    second: bloque explota_45
+  - first:
+      213: -1702231723731423764
+    second: bloque explota_46
+  - first:
+      213: 7804009535465839413
+    second: bloque explota_47
+  - first:
+      213: -2479933476394050179
+    second: bloque explota_48
+  - first:
+      213: 7644227952152052726
+    second: bloque explota_49
+  - first:
+      213: 3960563168648339348
+    second: bloque explota_50
+  - first:
+      213: 9091757849599264075
+    second: bloque explota_51
+  - first:
+      213: -6826979611584523940
+    second: bloque explota_52
+  - first:
+      213: -293054209821140855
+    second: bloque explota_53
+  - first:
+      213: -3843695894994081756
+    second: bloque explota_54
+  - first:
+      213: 7117369872219816569
+    second: bloque explota_55
+  - first:
+      213: 3366445236197859757
+    second: bloque explota_56
+  - first:
+      213: 2069069731687922984
+    second: bloque explota_57
+  - first:
+      213: -8596237137885999969
+    second: bloque explota_58
+  - first:
+      213: -5430139097195647345
+    second: bloque explota_59
+  - first:
+      213: -6223461964580137262
+    second: bloque explota_60
+  - first:
+      213: -568556287340486251
+    second: bloque explota_61
+  - first:
+      213: -4994429672842196771
+    second: bloque explota_62
+  - first:
+      213: -7209141357939321370
+    second: bloque explota_63
+  - first:
+      213: -9087458044068174123
+    second: bloque explota_64
+  - first:
+      213: -7620054227367611372
+    second: bloque explota_65
+  - first:
+      213: 2399139715437233183
+    second: bloque explota_66
+  - first:
+      213: 3964670768842700704
+    second: bloque explota_67
+  - first:
+      213: -4734807388706806465
+    second: bloque explota_68
+  - first:
+      213: -8062022408971927255
+    second: bloque explota_69
+  - first:
+      213: 4414186559959089657
+    second: bloque explota_70
+  - first:
+      213: 1496839663314758042
+    second: bloque explota_71
+  - first:
+      213: 836480714706054673
+    second: bloque explota_72
+  - first:
+      213: 2589267456838682263
+    second: bloque explota_73
+  - first:
+      213: 7771444957800610529
+    second: bloque explota_74
+  - first:
+      213: 622617108368948912
+    second: bloque explota_75
+  - first:
+      213: 548119299589999304
+    second: bloque explota_76
+  - first:
+      213: 3844522208451533722
+    second: bloque explota_77
+  - first:
+      213: -4491315795964900912
+    second: bloque explota_78
+  - first:
+      213: 5453323629797191154
+    second: bloque explota_79
+  - first:
+      213: 6146051753967894280
+    second: bloque explota_80
+  - first:
+      213: -587041620274665754
+    second: bloque explota_81
+  - first:
+      213: 3168720131166143964
+    second: bloque explota_82
+  - first:
+      213: -8546901510048829956
+    second: bloque explota_83
+  - first:
+      213: 7005942777897928196
+    second: bloque explota_84
+  - first:
+      213: 1444494009103255475
+    second: bloque explota_85
+  - first:
+      213: -3336372642460968288
+    second: bloque explota_86
+  - first:
+      213: -7861946603246073207
+    second: bloque explota_87
+  - first:
+      213: 7515543606554068640
+    second: bloque explota_88
+  - first:
+      213: 6938110463087422557
+    second: bloque explota_89
+  - first:
+      213: -5745239367046401277
+    second: bloque explota_90
+  - first:
+      213: 2595263217373718913
+    second: bloque explota_91
+  - first:
+      213: -926794008821980159
+    second: bloque explota_92
+  - first:
+      213: -6966420180977460506
+    second: bloque explota_93
+  - first:
+      213: -3762466943606921909
+    second: bloque explota_94
+  - first:
+      213: 4454911826197348041
+    second: bloque explota_95
+  - first:
+      213: 7287426367169676937
+    second: bloque explota_96
+  - first:
+      213: -63031635849209114
+    second: bloque explota_97
+  - first:
+      213: -58822708588487331
+    second: bloque explota_98
+  - first:
+      213: -5984758996249229342
+    second: bloque explota_99
+  - first:
+      213: -5456944761763362972
+    second: bloque explota_100
+  - first:
+      213: -4747038132032968196
+    second: bloque explota_101
+  - first:
+      213: -1713958120691096591
+    second: bloque explota_102
+  - first:
+      213: -8282516980168802917
+    second: bloque explota_103
+  - first:
+      213: -565392354029602833
+    second: bloque explota_104
+  - first:
+      213: -5882738835002584509
+    second: bloque explota_105
+  - first:
+      213: -9070932821929208815
+    second: bloque explota_106
+  - first:
+      213: -6471863583952514234
+    second: bloque explota_107
+  - first:
+      213: 4012927133601051976
+    second: bloque explota_108
+  - first:
+      213: 7580437422024350048
+    second: bloque explota_109
+  - first:
+      213: -4267647419162233007
+    second: bloque explota_110
+  - first:
+      213: -8978747927666486423
+    second: bloque explota_111
+  - first:
+      213: 1872944810877754747
+    second: bloque explota_112
+  - first:
+      213: -3000568742794077700
+    second: bloque explota_113
+  - first:
+      213: 3056550610658318802
+    second: bloque explota_114
+  - first:
+      213: 7558926428515690196
+    second: bloque explota_115
+  - first:
+      213: 6379272496354709485
+    second: bloque explota_116
+  - first:
+      213: -2792177399691353718
+    second: bloque explota_117
+  - first:
+      213: 2306687051488343918
+    second: bloque explota_118
+  - first:
+      213: 1892880659971858046
+    second: bloque explota_119
+  - first:
+      213: 3919522718057659246
+    second: bloque explota_120
+  - first:
+      213: -4722777605646897809
+    second: bloque explota_121
+  - first:
+      213: 4048671808693115462
+    second: bloque explota_122
+  - first:
+      213: -3371519832446516268
+    second: bloque explota_123
+  - first:
+      213: 8126618568869012133
+    second: bloque explota_124
+  - first:
+      213: 474843259393991862
+    second: bloque explota_125
+  - first:
+      213: -8904710372654388416
+    second: bloque explota_126
+  - first:
+      213: 6140764314005544873
+    second: bloque explota_127
+  - first:
+      213: -1913005632629098089
+    second: bloque explota_128
+  - first:
+      213: -3077293428290650263
+    second: bloque explota_129
+  - first:
+      213: 8404321536102903530
+    second: bloque explota_130
+  - first:
+      213: 7205349539521545943
+    second: bloque explota_131
+  - first:
+      213: 7899244235509889895
+    second: bloque explota_132
+  - first:
+      213: 9156989723787012608
+    second: bloque explota_133
+  - first:
+      213: 1970521812589324537
+    second: bloque explota_134
+  - first:
+      213: 6380938431599815971
+    second: bloque explota_135
+  - first:
+      213: -8411808583707082136
+    second: bloque explota_136
+  - first:
+      213: -3746330818081965811
+    second: bloque explota_137
+  - first:
+      213: -276906820802456145
+    second: bloque explota_138
+  - first:
+      213: 884448552147669891
+    second: bloque explota_139
+  - first:
+      213: -711751098291163055
+    second: bloque explota_140
+  - first:
+      213: 4734180152397918877
+    second: bloque explota_141
+  - first:
+      213: 3802875814697043884
+    second: bloque explota_142
+  - first:
+      213: -6280064489130610289
+    second: bloque explota_143
+  - first:
+      213: -5427752401056519221
+    second: bloque explota_144
+  - first:
+      213: -8657229898169107459
+    second: bloque explota_145
+  - first:
+      213: 4405948027404090233
+    second: bloque explota_146
+  - first:
+      213: 8537278986577518215
+    second: bloque explota_147
+  - first:
+      213: -1387452109488337556
+    second: bloque explota_148
+  - first:
+      213: 2578092023751914259
+    second: bloque explota_149
+  - first:
+      213: 5855619834472582995
+    second: bloque explota_150
+  - first:
+      213: -1323979421980950755
+    second: bloque explota_151
+  - first:
+      213: 3617400976304032158
+    second: bloque explota_152
+  - first:
+      213: 1207885352242762294
+    second: bloque explota_153
+  - first:
+      213: 7119099988263010777
+    second: bloque explota_154
+  - first:
+      213: -1981802337056576320
+    second: bloque explota_155
+  - first:
+      213: 6844254653190262133
+    second: bloque explota_156
+  - first:
+      213: -8906143806407122634
+    second: bloque explota_157
+  - first:
+      213: 6131413505468778258
+    second: bloque explota_158
+  - first:
+      213: 331767527627003061
+    second: bloque explota_159
+  - first:
+      213: -3029590614283426940
+    second: bloque explota_160
+  - first:
+      213: 1412807089508986785
+    second: bloque explota_161
+  - first:
+      213: 5697083447053505071
+    second: bloque explota_162
+  - first:
+      213: -6689505264878015942
+    second: bloque explota_163
+  - first:
+      213: -6311004834836747016
+    second: bloque explota_164
+  - first:
+      213: -6370166602258890928
+    second: bloque explota_165
+  - first:
+      213: -917256336767981499
+    second: bloque explota_166
+  - first:
+      213: 6826419704644437815
+    second: bloque explota_167
+  - first:
+      213: 1651671376919816379
+    second: bloque explota_168
+  - first:
+      213: 7802434885702133021
+    second: bloque explota_169
+  - first:
+      213: 5042530801992517505
+    second: bloque explota_170
+  - first:
+      213: -21227688281940595
+    second: bloque explota_171
+  - first:
+      213: 706659780736059735
+    second: bloque explota_172
+  - first:
+      213: -3281278471503664934
+    second: bloque explota_173
+  - first:
+      213: 4806403839014687518
+    second: bloque explota_174
+  - first:
+      213: -2771085721607051551
+    second: bloque explota_175
+  - first:
+      213: -4365078487500833969
+    second: bloque explota_176
+  - first:
+      213: -8293108029999980951
+    second: bloque explota_177
+  - first:
+      213: 162377242791649587
+    second: bloque explota_178
+  - first:
+      213: -6757389167487900978
+    second: bloque explota_179
+  - first:
+      213: -8017901511570480970
+    second: bloque explota_180
+  - first:
+      213: -3890371150153372818
+    second: bloque explota_181
+  - first:
+      213: 1695268142095898180
+    second: bloque explota_182
+  - first:
+      213: 6095225342373363401
+    second: bloque explota_183
+  - first:
+      213: 8088420831120045673
+    second: bloque explota_184
+  - first:
+      213: -7342667854755419591
+    second: bloque explota_185
+  - first:
+      213: -3795823984501585965
+    second: bloque explota_186
+  - first:
+      213: -5426185459641665955
+    second: bloque explota_187
+  - first:
+      213: -3920441068019884769
+    second: bloque explota_188
+  - first:
+      213: 5732144522637291781
+    second: bloque explota_189
+  - first:
+      213: -2862882142998943636
+    second: bloque explota_190
+  - first:
+      213: -6716492288621508565
+    second: bloque explota_191
+  - first:
+      213: 8085408758585053768
+    second: bloque explota_192
+  - first:
+      213: 692379713166478110
+    second: bloque explota_193
+  - first:
+      213: 7447793379219713712
+    second: bloque explota_194
+  - first:
+      213: -8989634242722278557
+    second: bloque explota_195
+  - first:
+      213: 7642551284638156737
+    second: bloque explota_196
+  - first:
+      213: 2975841515771585815
+    second: bloque explota_197
+  - first:
+      213: 2281438183451687287
+    second: bloque explota_198
+  - first:
+      213: 5060453558541863478
+    second: bloque explota_199
+  - first:
+      213: -4302416291959415998
+    second: bloque explota_200
+  - first:
+      213: 215764834456390064
+    second: bloque explota_201
+  - first:
+      213: 3841649927456389515
+    second: bloque explota_202
+  - first:
+      213: 2859317687344284838
+    second: bloque explota_203
+  - first:
+      213: -3609849140732012904
+    second: bloque explota_204
+  - first:
+      213: 1567591689376083466
+    second: bloque explota_205
+  - first:
+      213: -5817311342401199710
+    second: bloque explota_206
+  - first:
+      213: -7479943076405783287
+    second: bloque explota_207
+  - first:
+      213: 6914737164283747565
+    second: bloque explota_208
+  - first:
+      213: -7113493707098590621
+    second: bloque explota_209
+  - first:
+      213: 9193293931374871091
+    second: bloque explota_210
+  - first:
+      213: -5870258451113153443
+    second: bloque explota_211
+  - first:
+      213: 5526478008734832418
+    second: bloque explota_212
+  - first:
+      213: 6012358711804888294
+    second: bloque explota_213
+  - first:
+      213: 9010010539085840491
+    second: bloque explota_214
+  - first:
+      213: 3354797405242081450
+    second: bloque explota_215
+  - first:
+      213: 1904543232136420161
+    second: bloque explota_216
+  - first:
+      213: 5377904678825889409
+    second: bloque explota_217
+  - first:
+      213: 6957149307247532073
+    second: bloque explota_218
+  - first:
+      213: 5592811829784743658
+    second: bloque explota_219
+  - first:
+      213: 2874517619800949382
+    second: bloque explota_220
+  - first:
+      213: 3871307373744435222
+    second: bloque explota_221
+  - first:
+      213: 2072839141594324366
+    second: bloque explota_222
+  - first:
+      213: 5675257946415170389
+    second: bloque explota_223
+  - first:
+      213: -1641879213116683437
+    second: bloque explota_224
+  - first:
+      213: 3805489829546882113
+    second: bloque explota_225
+  - first:
+      213: -662895920671128832
+    second: bloque explota_226
+  - first:
+      213: 8540281969085751535
+    second: bloque explota_227
+  - first:
+      213: 5831475101925589666
+    second: bloque explota_228
+  - first:
+      213: -3818499594989117646
+    second: bloque explota_229
+  - first:
+      213: 2344899287419502652
+    second: bloque explota_230
+  - first:
+      213: 7943333432734300517
+    second: bloque explota_231
+  - first:
+      213: -1090632068711721884
+    second: bloque explota_232
+  - first:
+      213: -8467224825724118332
+    second: bloque explota_233
+  - first:
+      213: 7229311367361353082
+    second: bloque explota_234
+  - first:
+      213: 1064219855980809943
+    second: bloque explota_235
+  - first:
+      213: 4029915443012985628
+    second: bloque explota_236
+  - first:
+      213: 5660867524839440046
+    second: bloque explota_237
+  - first:
+      213: -3396417028128105479
+    second: bloque explota_238
+  - first:
+      213: -259923734452091327
+    second: bloque explota_239
+  - first:
+      213: 6324881827221752299
+    second: bloque explota_240
+  - first:
+      213: 1623244251629285155
+    second: bloque explota_241
+  - first:
+      213: -237778444738403695
+    second: bloque explota_242
+  - first:
+      213: -485529982015622738
+    second: bloque explota_243
+  - first:
+      213: -7828621784474566921
+    second: bloque explota_244
+  - first:
+      213: -6706948942890595157
+    second: bloque explota_245
+  - first:
+      213: 346294093841577410
+    second: bloque explota_246
+  - first:
+      213: 3944079540555225668
+    second: bloque explota_247
+  - first:
+      213: -3216196523483528604
+    second: bloque explota_248
+  - first:
+      213: -4290848663228458489
+    second: bloque explota_249
+  - first:
+      213: -1377605873018386150
+    second: bloque explota_250
+  - first:
+      213: 2517708726948613956
+    second: bloque explota_251
+  - first:
+      213: -4402954392987152310
+    second: bloque explota_252
+  - first:
+      213: 4016230481253912431
+    second: bloque explota_253
+  - first:
+      213: 6685153511493983692
+    second: bloque explota_254
+  - first:
+      213: 4608684248655524980
+    second: bloque explota_255
+  - first:
+      213: -5450635190887762077
+    second: bloque explota_256
+  - first:
+      213: 3712338707990798038
+    second: bloque explota_257
+  - first:
+      213: -1483639456374893141
+    second: bloque explota_258
+  - first:
+      213: -6583267140761884965
+    second: bloque explota_259
+  - first:
+      213: -3126387551464828205
+    second: bloque explota_260
+  - first:
+      213: 3430582970422711794
+    second: bloque explota_261
+  - first:
+      213: -2381045053905409083
+    second: bloque explota_262
+  - first:
+      213: 8804202808023496462
+    second: bloque explota_263
+  - first:
+      213: -410557614057358391
+    second: bloque explota_264
+  - first:
+      213: -4937790185108224406
+    second: bloque explota_265
+  - first:
+      213: -8783161615707182887
+    second: bloque explota_266
+  - first:
+      213: 8031313172052997694
+    second: bloque explota_267
+  - first:
+      213: -4483285143498033088
+    second: bloque explota_268
+  - first:
+      213: 2184965375719507725
+    second: bloque explota_269
+  - first:
+      213: -8526333255230064975
+    second: bloque explota_270
+  - first:
+      213: 6598908471030807817
+    second: bloque explota_271
+  - first:
+      213: 5066258117236569069
+    second: bloque explota_272
+  - first:
+      213: 8365568182010049637
+    second: bloque explota_273
+  - first:
+      213: 6647267598379987652
+    second: bloque explota_274
+  - first:
+      213: -3836340747578444902
+    second: bloque explota_275
+  - first:
+      213: 2127116038892462856
+    second: bloque explota_276
+  - first:
+      213: 1994390757690247136
+    second: bloque explota_277
+  - first:
+      213: 6598825834784516206
+    second: bloque explota_278
+  - first:
+      213: -4254835194150627677
+    second: bloque explota_279
+  - first:
+      213: 1209615632969357670
+    second: bloque explota_280
+  - first:
+      213: -5899882075676579725
+    second: bloque explota_281
+  - first:
+      213: 2838536390059386890
+    second: bloque explota_282
+  - first:
+      213: 7726689214742163786
+    second: bloque explota_283
+  - first:
+      213: -2276355292594686312
+    second: bloque explota_284
+  - first:
+      213: 7733180162833804919
+    second: bloque explota_285
+  - first:
+      213: -5793236013862362583
+    second: bloque explota_286
+  - first:
+      213: 5918579110322194922
+    second: bloque explota_287
+  - first:
+      213: -702203158636561776
+    second: bloque explota_288
+  - first:
+      213: -9113663647893694786
+    second: bloque explota_289
+  - first:
+      213: -33561974078076530
+    second: bloque explota_290
+  - first:
+      213: 1884255438959318681
+    second: bloque explota_291
+  - first:
+      213: -536609565864572577
+    second: bloque explota_292
+  - first:
+      213: -2063708415402540262
+    second: bloque explota_293
+  - first:
+      213: -6159303653402096617
+    second: bloque explota_294
+  - first:
+      213: 8146083121896888769
+    second: bloque explota_295
+  - first:
+      213: 3429484849032299602
+    second: bloque explota_296
+  - first:
+      213: 8798331216878496256
+    second: bloque explota_297
+  - first:
+      213: 1519381371377830657
+    second: bloque explota_298
+  - first:
+      213: -4371097193924517784
+    second: bloque explota_299
+  - first:
+      213: -8859502458365796334
+    second: bloque explota_300
+  - first:
+      213: 6824787400993062084
+    second: bloque explota_301
+  - first:
+      213: 3239998844376019070
+    second: bloque explota_302
+  - first:
+      213: -8602945875771215040
+    second: bloque explota_303
+  - first:
+      213: -4134188856081402440
+    second: bloque explota_304
+  - first:
+      213: -128726446298236009
+    second: bloque explota_305
+  - first:
+      213: 6318799194021114595
+    second: bloque explota_306
+  - first:
+      213: -4641649470799717632
+    second: bloque explota_307
+  - first:
+      213: -5600485512770785751
+    second: bloque explota_308
+  - first:
+      213: 8189204685056770192
+    second: bloque explota_309
+  - first:
+      213: -121836166778998330
+    second: bloque explota_310
+  - first:
+      213: 7317273857536209856
+    second: bloque explota_311
+  - first:
+      213: 8471243142421214067
+    second: bloque explota_312
+  - first:
+      213: -3601971908113444827
+    second: bloque explota_313
+  - first:
+      213: 8222115847869557829
+    second: bloque explota_314
+  - first:
+      213: 7010074983602702891
+    second: bloque explota_315
+  - first:
+      213: 2951430212243341143
+    second: bloque explota_316
+  - first:
+      213: -5708163770281896971
+    second: bloque explota_317
+  - first:
+      213: -6265880729941168233
+    second: bloque explota_318
+  - first:
+      213: -3278598701429160305
+    second: bloque explota_319
+  - first:
+      213: -6945190213083279564
+    second: bloque explota_320
+  - first:
+      213: -5084561478644622410
+    second: bloque explota_321
+  - first:
+      213: 7669917272957560420
+    second: bloque explota_322
+  - first:
+      213: -2411610009905696011
+    second: bloque explota_323
+  - first:
+      213: -5758745062355233413
+    second: bloque explota_324
+  - first:
+      213: 4186518322023349121
+    second: bloque explota_325
+  - first:
+      213: 7712830852430352608
+    second: bloque explota_326
+  - first:
+      213: 4928303078294726526
+    second: bloque explota_327
+  - first:
+      213: 184359205829065356
+    second: bloque explota_328
+  - first:
+      213: -7660581735306511227
+    second: bloque explota_329
+  - first:
+      213: 1313635574884567162
+    second: bloque explota_330
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloque explota_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f112009e191970800000000000000
+      internalID: 8726039356865901899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 512
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3be216105b4bf40800000000000000
+      internalID: 5743414442334270412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 512
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053b71e48dc8dcb0800000000000000
+      internalID: -4838891829007272690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 512
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e60042c2095640800000000000000
+      internalID: 5069085888903308205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 512
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67022a0063be6d3f0800000000000000
+      internalID: -876254460305596298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf7d48f3aeb03a20800000000000000
+      internalID: 3040139359929860041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7ecf71ea1d5380800000000000000
+      internalID: -8980992526092699087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 256
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e42111fe8be210800000000000000
+      internalID: 1363340478235598907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 256
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f872427a50662520800000000000000
+      internalID: 2676932970098620664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_9
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 256
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1881332f1f2c8ac0800000000000000
+      internalID: -3851651770527676385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d3fac275922e410800000000000000
+      internalID: 1504810679883742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d631196b110471a0800000000000000
+      internalID: -6812819119066237227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef4f6ab7b83d570800000000000000
+      internalID: 8490283085721829024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloque explota_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2fd1dd93cb668d0800000000000000
+      internalID: -2853386357183745295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 075a480cd6b06a1f3a3a06ca3b85e2f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":274.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bloque explota_0: 8726039356865901899
+      bloque explota_1: 5743414442334270412
+      bloque explota_10: 1504810679883742608
+      bloque explota_11: -6812819119066237227
+      bloque explota_12: 8490283085721829024
+      bloque explota_13: -2853386357183745295
+      bloque explota_2: -4838891829007272690
+      bloque explota_3: 5069085888903308205
+      bloque explota_4: -876254460305596298
+      bloque explota_5: 3040139359929860041
+      bloque explota_6: -8980992526092699087
+      bloque explota_7: 1363340478235598907
+      bloque explota_8: 2676932970098620664
+      bloque explota_9: -3851651770527676385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

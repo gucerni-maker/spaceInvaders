@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="SCORE" name="puntajeTitulo" style="position: absolute; font-size: 29px; -unity-font-style: bold; color: rgb(255, 255, 255); left: 6px;"/>
+    <ui:Label text="0" name="puntaje" style="position: absolute; font-size: 30px; -unity-font-style: bold; color: rgb(255, 255, 255); top: 35px; left: 53px;"/>
+    <ui:Label text="VIDAS" name="vidasTitulo" style="position: absolute; font-size: 29px; -unity-font-style: bold; color: rgb(255, 255, 255); left: 14px; top: 85px;"/>
+    <ui:Label text="0" name="vidas" style="position: absolute; font-size: 30px; -unity-font-style: bold; color: rgb(255, 255, 255); top: 123px; left: 53px;"/>
+</ui:UXML>
