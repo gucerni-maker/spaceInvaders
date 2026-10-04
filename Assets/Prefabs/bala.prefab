@@ -172,3 +172,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::balaMove
   velocidad: 15
   explosion: {fileID: 3737644356471690960, guid: 873413d116884ee51832eb69c25d15d5, type: 3}
+  explosionBloque: {fileID: 6237246336885929928, guid: 04caa127584d64ae89021b5f22653bb1, type: 3}

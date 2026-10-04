@@ -4,8 +4,9 @@ public class balaMove : MonoBehaviour
 {
     public float velocidad = 15f;
     private Rigidbody2D rb;
-    public GameObject explosion;
-    private Vector2 posicionExplosion;
+    public GameObject explosion, explosionBloque;
+    private Vector2 posicionExplosion, bloquePos;
+    
     
     void Start()
     {
@@ -38,6 +39,12 @@ public class balaMove : MonoBehaviour
         }
         
         if (collision.gameObject.CompareTag("bloque")){
+            //generar explosion bloque
+            bloquePos = new Vector2(collision.transform.position.x, collision.transform.position.y);
+            GameObject explosionActual = Instantiate(explosionBloque, bloquePos, Quaternion.identity);
+            Destroy(explosionActual, 0.5f);
+
+            //destruir bloque y bala
             Destroy(collision.gameObject);
             Destroy(gameObject);
         }        

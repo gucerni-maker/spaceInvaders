@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="Restart" name="restart" style="position: absolute; top: 230px; left: 280px; height: 64px; width: 145px; -unity-font-style: bold-and-italic; font-size: 26px; background-color: rgb(40, 101, 163); color: rgb(255, 255, 255);"/>
+</ui:UXML>

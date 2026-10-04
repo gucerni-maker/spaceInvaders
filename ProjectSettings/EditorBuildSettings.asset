@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/nivel1.unity
     guid: 27fc7c0f44a5c5808b09b135cd5e58ce
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: ec294c623d5a2fdd3b0979cf6b7f8cb7
+  - enabled: 1
+    path: Assets/Scenes/victoria.unity
+    guid: 2831a623cc388f50e9c84a7b2b84d35f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
